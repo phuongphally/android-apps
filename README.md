@@ -4,9 +4,7 @@ This repository create for help my self and other people who like to build with 
 
 
 # Content 
-### The second largest heading
-### The second largest heading
-### The second largest heading
-### The second largest heading
-
-###My Sample Apps
+- George Washington
+- John Adams
+- Thomas Jefferson
+ 
